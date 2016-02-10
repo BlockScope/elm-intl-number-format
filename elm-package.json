@@ -1,12 +1,14 @@
 {
-    "version": "0.1.0",
+    "version": "1.0.0",
     "summary": "elm Intl.NumberFormat",
     "repository": "https://github.com/blockscope/elm-intl-number-format.git",
     "license": "ISC",
     "source-directories": [
         "src"
     ],
-    "exposed-modules": ["Intl.NumberFormat"],
+    "exposed-modules": [
+        "Intl.NumberFormat"
+    ],
     "native-modules": true,
     "dependencies": {
         "elm-lang/core": "3.0.0 <= v < 4.0.0"
